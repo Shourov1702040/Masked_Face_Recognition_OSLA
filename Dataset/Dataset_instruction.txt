@@ -1,0 +1,5 @@
+!gdown --id 14d266Azey8AkTQyzj3FUL_AJ6YGoEgRd
+!unzip /content/cropped.zip
+
+
+# Use these two lines for retrieving the HMFD dataset in your content folder of your Google Colab
